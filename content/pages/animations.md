@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains animations related to "Introduction to Solid Modeling"(CAD
+  1)
 learning_resource_types: []
 ocw_type: CourseSection
 title: Animations

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lab-related reading and preparation material.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
